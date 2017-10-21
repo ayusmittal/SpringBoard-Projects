@@ -19,3 +19,5 @@ In the train and test data, features that belong to similar groupings are tagged
 File descriptions
 
 train.csv contains the training and testing data, where each row corresponds to a policy holder, and the target columns signifies that a claim was filed. The data is splited to create the testing data.
+
+To get the the data, please extract the train-PS.7Z file ti get the train file in CSV format.
